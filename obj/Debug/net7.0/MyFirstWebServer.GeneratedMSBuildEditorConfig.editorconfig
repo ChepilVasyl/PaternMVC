@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyFirstWebServer
+build_property.RootNamespace = MyFirstWebServer
+build_property.ProjectDir = /Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Second/Method.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Vjb25kL01ldGhvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/FooterPart7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L0Zvb3RlclBhcnQ3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/HeaderPart3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L0hlYWRlclBhcnQzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/HeadPart1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L0hlYWRQYXJ0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/ModalPart10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L01vZGFsUGFydDEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/ModalPart11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L01vZGFsUGFydDExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/ModalPart12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L01vZGFsUGFydDEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/ModalPart13.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L01vZGFsUGFydDEzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/ModalPart8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L01vZGFsUGFydDguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/ModalPart9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L01vZGFsUGFydDkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/NawPart2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L05hd1BhcnQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/PagePart6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L1BhZ2VQYXJ0Ni5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/PortfolioPart4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L1BvcnRmb2xpb1BhcnQ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/PrimaryPart5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L1ByaW1hcnlQYXJ0NS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/ScriptsPart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L1NjcmlwdHNQYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/MySecondLayout/_LAYOUT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL015U2Vjb25kTGF5b3V0L19MQVlPVVQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6wgvaf9x6v

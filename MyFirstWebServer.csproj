@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>aspnet-MyFirstWebServer-16BB2315-7EB8-4B13-86C4-20AFB6FCCD1C</UserSecretsId>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+    <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+    <ItemGroup>
+        <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.7" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.7" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.7">
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+          <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.7" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.7" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Home\AttemptWithNameClass\AttemptWithNameHtml.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\MyClass\MyHtml.cshtml" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\css\fontawesome-all.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\css\images\bracket.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\css\main.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\js\breakpoints.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\js\browser.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\js\jquery.dropotron.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\js\jquery.min.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\js\main.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\js\util.js" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\sass\libs\_breakpoints.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\sass\libs\_functions.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\sass\libs\_html-grid.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\sass\libs\_mixins.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\sass\libs\_vars.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\sass\libs\_vendor.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\sass\main.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-brands-400.eot" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-brands-400.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-brands-400.ttf" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-brands-400.woff" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-brands-400.woff2" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-regular-400.eot" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-regular-400.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-regular-400.ttf" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-regular-400.woff" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-regular-400.woff2" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-solid-900.eot" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-solid-900.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-solid-900.ttf" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-solid-900.woff" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\assets\webfonts\fa-solid-900.woff2" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\banner.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\pic01.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\pic02.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\pic03.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\pic04.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\pic05.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\pic06.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\images\pic07.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\index.html" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\left-sidebar.html" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\LICENSE.txt" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\no-sidebar.html" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\README.txt" />
+      <_ContentIncludedByDefault Remove="wwwroot\template\forLayoutSite\right-sidebar.html" />
+    </ItemGroup>
+
+</Project>
