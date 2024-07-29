@@ -136,3 +136,4 @@
 /Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/obj/Debug/net8.0/MyFirstWebServer.pdb
 /Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/obj/Debug/net8.0/MyFirstWebServer.genruntimeconfig.cache
 /Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/obj/Debug/net8.0/ref/MyFirstWebServer.dll
+/Users/vasil/RiderProjects/MyFirstWebServer/MyFirstWebServer/obj/Debug/net8.0/MyFirstWebServer.sourcelink.json
