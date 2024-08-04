@@ -6,11 +6,10 @@ namespace MyFirstWebServer.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
-        public DbSet<PersonalDataModel>? MyModel { get; set; }
-
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
         }
+        public DbSet<PersonalDataModel>? MyModel { get; set; }
     }
 }
